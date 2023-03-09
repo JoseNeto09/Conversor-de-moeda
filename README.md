@@ -7,6 +7,6 @@ css
 javascript
 
 status atual: Front completo graficos etc...
-falta emplementar: back-end com api de moedas atuas de cada pais.
+falta implementar: back-end com api de moedas atuas de cada pais.
 
 
